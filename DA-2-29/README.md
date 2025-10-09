@@ -49,7 +49,7 @@ scikit-learn
 ## 🚀 Запуск
 
 ```bash
-python analyze_cv.py
+python cv_analysis.py
 ```
 
 ## 📊 Визуализация
