@@ -30,7 +30,7 @@ python --version
 python -m venv venv
 # Windows:
 venv\Scripts\activate
-Linux / macOS:
+# Linux / macOS:
 source venv/bin/activate
 ```
 
